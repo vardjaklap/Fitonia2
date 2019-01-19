@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Fitonia2/precache-manifest.358e6963ab11aba24a7b7d9dc7ce3297.js"
+  "/vardjaklap/Fitonia2/precache-manifest.95f5b3afbde4026df1a463ed3021a0e4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Fitonia2/index.html", {
+workbox.routing.registerNavigationRoute("/vardjaklap/Fitonia2/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
