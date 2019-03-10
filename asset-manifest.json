@@ -1,13 +1,13 @@
 {
-  "main.css": "/Fitonia2/static/css/main.6191b70e.chunk.css",
-  "main.js": "/Fitonia2/static/js/main.51c61b24.chunk.js",
-  "main.js.map": "/Fitonia2/static/js/main.51c61b24.chunk.js.map",
-  "static/js/1.6c0c93f2.chunk.js": "/Fitonia2/static/js/1.6c0c93f2.chunk.js",
-  "static/js/1.6c0c93f2.chunk.js.map": "/Fitonia2/static/js/1.6c0c93f2.chunk.js.map",
+  "main.css": "/Fitonia2/static/css/main.c274a7f8.chunk.css",
+  "main.js": "/Fitonia2/static/js/main.666ea011.chunk.js",
+  "main.js.map": "/Fitonia2/static/js/main.666ea011.chunk.js.map",
+  "static/js/1.e787624d.chunk.js": "/Fitonia2/static/js/1.e787624d.chunk.js",
+  "static/js/1.e787624d.chunk.js.map": "/Fitonia2/static/js/1.e787624d.chunk.js.map",
   "runtime~main.js": "/Fitonia2/static/js/runtime~main.4e8355ac.js",
   "runtime~main.js.map": "/Fitonia2/static/js/runtime~main.4e8355ac.js.map",
-  "static/css/main.6191b70e.chunk.css.map": "/Fitonia2/static/css/main.6191b70e.chunk.css.map",
+  "static/css/main.c274a7f8.chunk.css.map": "/Fitonia2/static/css/main.c274a7f8.chunk.css.map",
   "index.html": "/Fitonia2/index.html",
-  "precache-manifest.f6feb4e1b3d2f220e185914ffa6ea298.js": "/Fitonia2/precache-manifest.f6feb4e1b3d2f220e185914ffa6ea298.js",
+  "precache-manifest.6f1cb663ddad8eca89f21b68293d943d.js": "/Fitonia2/precache-manifest.6f1cb663ddad8eca89f21b68293d943d.js",
   "service-worker.js": "/Fitonia2/service-worker.js"
 }

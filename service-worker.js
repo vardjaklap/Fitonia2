@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Fitonia2/precache-manifest.f6feb4e1b3d2f220e185914ffa6ea298.js"
+  "/Fitonia2/precache-manifest.6f1cb663ddad8eca89f21b68293d943d.js"
 );
 
 workbox.clientsClaim();
